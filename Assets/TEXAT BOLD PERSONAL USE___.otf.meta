@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f6a1608b98494454fa5e154e856b9e2f
+timeCreated: 1515642164
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Texas Tango BOLD PERSONAL USE
+  fontNames:
+  - Texas Tango BOLD PERSONAL USE
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

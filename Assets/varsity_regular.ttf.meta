@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fe2dca249fd7d3041a578dc14327505f
+timeCreated: 1515640972
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Varsity Regular
+  fontNames:
+  - Varsity Regular
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

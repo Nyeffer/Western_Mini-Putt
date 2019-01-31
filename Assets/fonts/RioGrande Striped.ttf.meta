@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 873814f440842404bb60f1ec8e1810dc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rio Grande Striped
+  fontNames:
+  - Rio Grande Striped
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b510a06d0c900914ca30b12cd039080f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

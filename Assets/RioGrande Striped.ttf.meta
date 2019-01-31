@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b510a06d0c900914ca30b12cd039080f
+timeCreated: 1515641695
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rio Grande Striped
+  fontNames:
+  - Rio Grande Striped
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
