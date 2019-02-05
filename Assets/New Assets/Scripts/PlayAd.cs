@@ -21,6 +21,7 @@ public class PlayAd : MonoBehaviour {
         #if UNITY_ADS
         if (!Advertisement.IsReady())
         {
+            Advertisement.Show();
             Debug.Log("Ads not ready for default placement");
             SceneManager.LoadScene("Menu", LoadSceneMode.Single);
             return;
