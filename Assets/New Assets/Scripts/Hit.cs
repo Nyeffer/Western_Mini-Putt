@@ -147,8 +147,8 @@ public class Hit : MonoBehaviour {
 
 	void OnTriggerEnter(Collider col) {
 		if(col.gameObject.tag == "Goal") {
-			Done = true;
 			As.PlayOneShot(GoalClip);
+			Done = true;
 		}
 		if(col.gameObject.tag == "GoalFloor") {
 			inGoal = true;
