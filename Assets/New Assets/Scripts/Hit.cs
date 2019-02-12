@@ -77,14 +77,13 @@ public class Hit : MonoBehaviour {
 				counter += Time.deltaTime;
 			} else {
 				if(hole.GetisPrac()) {
-					// gameObject.GetComponent<PlayAd>().ShowDefaultAd();
-					SceneManager.LoadScene(after, LoadSceneMode.Single);
+					gameObject.GetComponent<PlayAd>().ShowAd();
 				} else {
 					WhatScore(score, hole.GetPar());
 					SceneManager.LoadScene(after, LoadSceneMode.Single);
-					// if(after == "Menu") {
-					// 	gameObject.GetComponent<PlayAd>().ShowDefaultAd();
-					// }
+					if(after == "Menu") {
+						gameObject.GetComponent<PlayAd>().ShowAd();
+					}
 				}
 			}
 		} else {

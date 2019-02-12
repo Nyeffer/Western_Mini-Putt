@@ -4600,7 +4600,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1409941378}
   - component: {fileID: 1409941377}
-  - component: {fileID: 1409941376}
   m_Layer: 0
   m_Name: Bird
   m_TagString: MainCamera
@@ -4608,13 +4607,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &1409941376
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1409941375}
-  m_Enabled: 1
 --- !u!20 &1409941377
 Camera:
   m_ObjectHideFlags: 0

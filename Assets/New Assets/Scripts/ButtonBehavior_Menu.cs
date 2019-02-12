@@ -31,7 +31,7 @@ public class ButtonBehavior_Menu : MonoBehaviour {
 	}
 
 	public void PlayPractice(int holeNum) {
-		string name = "Hole_" + holeNum.ToString() + "";
+		string name = "Hole_" + holeNum.ToString();
 		PlayerPrefs.SetInt(name, 0);
 		SceneManager.LoadScene(name, LoadSceneMode.Single);
 	}

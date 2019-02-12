@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.83387506, g: 0.52670574, b: 0.58785367, a: 1}
+  m_IndirectSpecularColor: {r: 0.8291653, g: 0.527129, b: 0.5930938, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1238,7 +1238,6 @@ GameObject:
   m_Component:
   - component: {fileID: 452623990}
   - component: {fileID: 452623989}
-  - component: {fileID: 452623988}
   m_Layer: 0
   m_Name: Bird
   m_TagString: MainCamera
@@ -1246,13 +1245,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &452623988
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 452623987}
-  m_Enabled: 1
 --- !u!20 &452623989
 Camera:
   m_ObjectHideFlags: 0
